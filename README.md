@@ -1,0 +1,2 @@
+# LegalCopilot
+LegalCopilot
